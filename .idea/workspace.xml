@@ -2,32 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0fa51121-49b6-4c91-8758-a3aa836df9ba" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/considerations.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/shouts.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/users.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/app.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/style/global.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/style/reset.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/functional/main-bar-container.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/functional/shout-feed.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/visual/main-bar/main-bar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/visual/main-bar/main-bar.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/visual/shout-list/shout-list.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/visual/shout-list/shout-list.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/visual/shout/shout.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/visual/shout/shout.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/visual/shout/shout.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/reducers/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/reducers/main-feed/main-feed-actions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/reducers/main-feed/main-feed-reducer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/reducers/user/user-actions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/reducers/user/user-reducer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/services/XHR/GetJSON.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/services/XHR/PostJSON.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webpack.config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -78,8 +53,8 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="63" lean-forward="true" selection-start-line="2" selection-start-column="63" selection-end-line="2" selection-end-column="63" />
+            <state relative-caret-position="330">
+              <caret line="22" column="8" lean-forward="false" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -396,12 +371,12 @@
       <option name="presentableId" value="Default" />
       <updated>1500568111458</updated>
       <workItem from="1500568113267" duration="19908000" />
-      <workItem from="1500649349893" duration="58000" />
+      <workItem from="1500649349893" duration="193000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19966000" />
+    <option name="totallyTimeSpent" value="20101000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
@@ -727,8 +702,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="63" lean-forward="true" selection-start-line="2" selection-start-column="63" selection-end-line="2" selection-end-column="63" />
+        <state relative-caret-position="330">
+          <caret line="22" column="8" lean-forward="false" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
           <folding />
         </state>
       </provider>
