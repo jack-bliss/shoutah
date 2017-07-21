@@ -4,22 +4,22 @@ A very simple social network that currently only supports manual addition of new
 
 ## Considerations
 
-###spread operator vs object.assign
+### spread operator vs object.assign
 
 more readable but less stable?
 
-###structure
+### structure
 
 should reducers be in the same folder as their actions or separate?
 
-###dom structure
+### dom structure
 
 one big app component or separate components rendered individually?
 
-###components
+### components
 
 i think a separation of functional and visual components is a good idea, but do we allow ambiguous components? should all functional components connect to a visual component or can we have some overlap? each option adds and removes different kinds of complexity
 
-###state
+### state
 
 how deep do we want to go with state? should the contents of text boxes be registered in redux?
