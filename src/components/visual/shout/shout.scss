@@ -1,0 +1,23 @@
+.shout{
+
+  display: grid;
+  grid-template-columns: 1fr 1fr 6fr;
+  grid-template-rows: 1fr;
+  grid-template-areas:
+          'time author body';
+
+  > *{
+    padding: 10px;
+  }
+  .time{
+    grid-area: time;
+    text-align: right;
+  }
+  .author{
+    grid-area: author;
+    text-align: right;
+  }
+  .body{
+    grid-area: body;
+  }
+}

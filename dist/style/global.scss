@@ -1,0 +1,21 @@
+body{
+
+  font-family: Helvetica, sans-serif;
+
+  display: grid;
+  grid-template-columns: 10% auto 10%;
+  grid-template-rows: 60px auto;
+  grid-template-areas:
+          "topbar topbar topbar"
+          "lguttr  main  rguttr";
+
+}
+
+#mainbar{
+  grid-area: topbar;
+  padding: 15px;
+}
+
+#main{
+  grid-area: main;
+}

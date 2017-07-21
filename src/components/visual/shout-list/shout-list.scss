@@ -1,0 +1,22 @@
+$colour: #33CC33;
+
+.shout-list{
+  .reload-button{
+    text-align: center;
+    button {
+      font-size: 20px;
+      border-radius: 20px;
+      border: 1px solid $colour;
+      color: $colour;
+      background-color: white;
+      padding: 5px 20px;
+      cursor: pointer;
+      font-weight: lighter;
+      outline: none;
+      &:hover{
+        background-color: $colour;
+        color: white;
+      }
+    }
+  }
+}

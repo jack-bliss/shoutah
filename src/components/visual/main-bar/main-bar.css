@@ -1,0 +1,15 @@
+.main-bar {
+  display: grid;
+  grid-template-columns: 1fr 3fr 2fr;
+  grid-template-rows: 1fr;
+  grid-template-areas: "title . button"; }
+  .main-bar h2 {
+    grid-area: title;
+    text-align: center; }
+  .main-bar form {
+    grid-area: button;
+    text-align: left; }
+    .main-bar form input[type='text'] {
+      width: 300px; }
+
+/*# sourceMappingURL=main-bar.css.map */

@@ -1,0 +1,1 @@
+[{"name": "Jack", "id": 1, "following": [2, 3]},{"name": "Jamie", "id": 2, "following": [3]},{"name": "Marcin", "id": 3, "following": [1, 2]}]
